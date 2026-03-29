@@ -1,0 +1,7 @@
+{
+  "name": "cartao-identificacao-calouros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

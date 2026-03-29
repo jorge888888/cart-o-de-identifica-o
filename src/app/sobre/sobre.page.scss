@@ -1,0 +1,31 @@
+.sobre-content {
+  --background: var(--app-bg-gradient);
+}
+
+.sobre-inner {
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 1.25rem 1rem 2rem;
+}
+
+.sobre-panel {
+  background: var(--app-surface-elevated);
+  border-radius: 16px;
+  padding: 1.25rem 1.15rem 1.35rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.22);
+}
+
+.sobre-titulo {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+  color: var(--ion-color-primary-shade);
+}
+
+.sobre-texto {
+  line-height: 1.65;
+  font-size: 1rem;
+  color: #000000;
+  margin: 0;
+}
