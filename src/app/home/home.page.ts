@@ -11,10 +11,11 @@ import { IonicModule } from '@ionic/angular';
   imports: [CommonModule, RouterModule, IonicModule],
 })
 export class HomePage {
-  nomeCompleto = 'jorge luiz matias izidro';
+  nomeCompleto = 'Jorge Luiz Matias Izidro';
   codigoTurma = '25102194';
-  unidade = 'bonsucesso';
-  turno = 'manhã';
+  unidade = 'Bonsucesso';
+  turno = 'Manhã';
+  palavraChave = ''; // coloca aqui quando o professor fornecer
 
   constructor() {}
 }
